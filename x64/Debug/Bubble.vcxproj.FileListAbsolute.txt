@@ -1,0 +1,3 @@
+C:\Users\Kayahan\Desktop\Bubble\BubbleShoot\Bubble\x64\Debug\raylib.dll
+C:\Users\Kayahan\Desktop\Bubble\BubbleShoot\Bubble\x64\Debug\glfw3.dll
+C:\Users\Kayahan\Desktop\Bubble\BubbleShoot\Bubble\Bubble\x64\Debug\Bubble.vcxproj.Up2Date
